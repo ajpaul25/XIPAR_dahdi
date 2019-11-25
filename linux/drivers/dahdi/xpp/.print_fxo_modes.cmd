@@ -1,0 +1,1 @@
+cmd_/usr/src/EVB/ast_base/dahdi-2.2.1/linux/drivers/dahdi/xpp/print_fxo_modes := gcc  -o /usr/src/EVB/ast_base/dahdi-2.2.1/linux/drivers/dahdi/xpp/print_fxo_modes /usr/src/EVB/ast_base/dahdi-2.2.1/linux/drivers/dahdi/xpp/print_fxo_modes.o  

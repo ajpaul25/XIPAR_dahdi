@@ -1,0 +1,2 @@
+/usr/src/EVB/ast_base/dahdi-2.2.1/linux/drivers/dahdi/wcb4xxp/wcb4xxp.ko
+/usr/src/EVB/ast_base/dahdi-2.2.1/linux/drivers/dahdi/wcb4xxp/base.o

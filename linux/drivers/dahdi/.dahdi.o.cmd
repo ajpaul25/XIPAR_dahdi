@@ -1,0 +1,1 @@
+cmd_/usr/src/EVB/ast_base/dahdi-2.2.1/linux/drivers/dahdi/dahdi.o := ld -m elf_i386   -r -o /usr/src/EVB/ast_base/dahdi-2.2.1/linux/drivers/dahdi/dahdi.o /usr/src/EVB/ast_base/dahdi-2.2.1/linux/drivers/dahdi/dahdi-base.o 
